@@ -5,7 +5,7 @@ import java.io.FileFilter;
 
 public class Main {
     public static void main(String[] args) {
-        //Old way
+        //Old Way
 //        FileFilter fileFilter = new FileFilter() {
 //            @Override
 //            public boolean accept(File pathname) {
