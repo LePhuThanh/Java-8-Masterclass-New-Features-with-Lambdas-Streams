@@ -1,4 +1,4 @@
-package main.java;
+package main.java.lambda;
 
 public class LambdaExpress {
     public static void main(String[] args) {
